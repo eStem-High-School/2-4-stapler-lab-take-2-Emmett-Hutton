@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/X4sMzKho)
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=15609606)
 # Stapler-Lab
 # INTRODUCTION: 
 You have been given a **Stapler** class ```Stapler.java``` and **Stapler** test program ```Main.class```. The Tester program is complete and you are not allowed to change it. The ```Stapler.java``` file is missing code in various places. 
